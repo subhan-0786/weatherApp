@@ -141,9 +141,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the existing style and includes relevant tests.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -152,5 +149,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Vite**: For a lightning-fast development experience.
 <<<<<<< HEAD
 - **Tailwind CSS**: Inspiration for the dark-mode design (though implemented with custom CSS).
-=======
->>>>>>> 31752a6 (Removed Tailwind and PostCSS config files)
+
