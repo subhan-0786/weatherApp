@@ -2,6 +2,14 @@
 
 Welcome to the **Weather App**, a sleek and modern single-page application built with React to provide real-time weather information for cities worldwide. Powered by the **Open-Meteo API**, this app lets users search for locations, select a city, and view current weather conditions along with an 8-hour forecast. Designed with a dark-mode theme and responsive layout, it offers a delightful user experience across devices. The project demonstrates modern React patterns, including the **Context API**, **useReducer**, custom hooks, and robust error handling with CORS proxy fallbacks.
 
+<img width="1490" height="554" alt="image" src="https://github.com/user-attachments/assets/0fee70d7-a0ab-4792-bec3-cb948bd4aca0" />
+
+
+<img width="1485" height="567" alt="image" src="https://github.com/user-attachments/assets/4b0ce71c-ba8c-4eb3-86eb-b586c5c8811a" />
+
+<img width="1173" height="796" alt="Screenshot 2025-08-20 022144" src="https://github.com/user-attachments/assets/b4ac3e58-e023-4010-9329-c0b2e85f8e41" />
+
+
 ## ✨ Features
 
 - **Global City Search**: Look up any city worldwide using the Open-Meteo geocoding API.
